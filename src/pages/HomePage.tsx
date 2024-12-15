@@ -16,19 +16,19 @@ function HomePage() {
         }}></div>
         <div className="relative z-10 container mx-auto px-4 py-16 md:py-24">
           <h1 className="text-4xl md:text-6xl font-bold mb-6">
-            Профессиональная проверка автомобиля перед покупкой
+            АвтоЭксперт - Ваш надежный помощник в выборе автомобиля
           </h1>
           <p className="text-xl mb-8 max-w-2xl">
-            Защитите свои инвестиции с помощью профессиональной диагностики от экспертов с 8-летним опытом работы в Алматы и по всему Казахстану
+            Профессиональная диагностика и подбор автомобилей в Алматы от экспертов с 8-летним опытом. АвтоЭксперт - это гарантия безопасной покупки авто.
           </p>
           <div className="flex flex-wrap gap-4">
             <div className="flex items-center space-x-2">
               <Shield className="w-6 h-6 text-green-400" />
-              <span>100% гарантия качества</span>
+              <span>Гарантия от АвтоЭксперт</span>
             </div>
             <div className="flex items-center space-x-2">
               <CheckCircle className="w-6 h-6 text-green-400" />
-              <span>Профессиональное оборудование</span>
+              <span>Современное оборудование</span>
             </div>
             <div className="flex items-center space-x-2">
               <MapPin className="w-6 h-6 text-green-400" />
@@ -56,10 +56,10 @@ function HomePage() {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold mb-4 text-gray-900">
-              Наши услуги
+              Услуги АвтоЭксперт в Алматы
             </h2>
             <p className="text-gray-600 text-lg">
-              Доверяйте свой выбор специалистам с 8-летним опытом работы
+              Комплексная проверка и подбор автомобилей от профессионалов АвтоЭксперт
             </p>
           </div>
           <div className="max-w-4xl mx-auto">
@@ -82,17 +82,17 @@ function HomePage() {
           </div>
           <div className="mt-12 text-center">
             <p className="text-gray-600 mb-6">
-              Используем только профессиональное оборудование, включая x431 pro v3
+              АвтоЭксперт использует профессиональное диагностическое оборудование x431 pro v3
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <div className="bg-blue-50 text-blue-900 px-4 py-2 rounded-full text-sm font-medium">
-                Гарантия качества 100%
+                Официальная гарантия АвтоЭксперт
               </div>
               <div className="bg-blue-50 text-blue-900 px-4 py-2 rounded-full text-sm font-medium">
                 Выезд по всему Казахстану
               </div>
               <div className="bg-blue-50 text-blue-900 px-4 py-2 rounded-full text-sm font-medium">
-                Профессиональное оборудование
+                Сертифицированные специалисты
               </div>
             </div>
           </div>
@@ -103,10 +103,10 @@ function HomePage() {
       <section className="py-16 bg-blue-900 text-white">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-6">
-            Закажите проверку прямо сейчас
+            Свяжитесь с АвтоЭксперт прямо сейчас
           </h2>
           <p className="text-xl mb-8">
-            Защитите себя от покупки проблемного автомобиля
+            Доверьте проверку автомобиля профессионалам АвтоЭксперт
           </p>
           <div className="flex flex-col md:flex-row justify-center gap-4">
             <a
